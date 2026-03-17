@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7541780f3da4ace7",
+        "id": "941a5b6d5c330b05",
         "type": "tabs",
         "children": [
           {
-            "id": "210b66162d955e51",
+            "id": "2b54d25532b67eba",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Исскуственный интеллект/_ИИ_главное.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_ИИ_главное"
             }
           }
         ]
@@ -177,11 +181,13 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "210b66162d955e51",
+  "active": "2b54d25532b67eba",
   "lastOpenFiles": [
+    "Программирование/Pasted image 20260314192313.png",
     "conv.py",
     "Создать папку/Исскуственный интеллект/Решающие деревья.md",
     "Создать папку/Исскуственный интеллект/Смещение и разброс.md",
@@ -227,7 +233,6 @@
     "Исскуственный интеллект",
     "Искусственный интеллект",
     "Excalidraw",
-    "Без названия 1",
-    "задачи"
+    "Без названия 1"
   ]
 }
