@@ -24,9 +24,9 @@ w = baaba
 
 
 Алгоритм из учебника
-![Pasted image 20260316151109.png](Pasted image 20260316151109.png.md)
+![Pasted image 20260316151109.png](Pasted%20image%2020260316151109.png.md)
 
 
 Алгоритм на псевдокоде
 
-![Pasted image 20260316151202.png](Pasted image 20260316151202.png.md)
+![Pasted image 20260316151202.png](Pasted%20image%2020260316151202.png.md)
